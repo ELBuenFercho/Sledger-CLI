@@ -1,0 +1,108 @@
+2022/01/01 Rent
+    Expenses:Rent  $1000.00
+    Assets:Checking
+
+2022/01/03 Groceries
+    Expenses:Food   $100.00
+    Assets:Checking
+
+2022/01/05 Salary
+    Income:Salary  $2000.00
+    Assets:Checking
+
+2022/01/07 Utilities
+    Expenses:Utilities  $200.00
+    Assets:Checking
+
+2022/01/09 Gas
+    Expenses:Transportation  $50.00
+    Assets:Checking
+
+2022/01/11 Entertainment
+    Expenses:Entertainment  $100.00
+    Assets:Checking
+
+2022/01/13 Groceries
+    Expenses:Food   $150.00
+    Assets:Checking
+
+2022/01/15 Credit card payment
+    Liabilities:Credit Card  $200.00
+    Assets:Checking
+
+2022/01/17 Car payment
+    Expenses:Transportation  $300.00
+    Assets:Checking
+
+2022/01/19 Rent
+    Expenses:Rent  $1000.00
+    Assets:Checking
+
+2022/01/21 Groceries
+    Expenses:Food   $100.00
+    Assets:Checking
+
+2022/01/23 Salary
+    Income:Salary  $2000.00
+    Assets:Checking
+
+2022/01/25 Utilities
+    Expenses:Utilities  $200.00
+    Assets:Checking
+
+2022/01/27 Gas
+    Expenses:Transportation  $50.00
+    Assets:Checking
+
+2022/01/29 Entertainment
+    Expenses:Entertainment  $100.00
+    Assets:Checking
+
+2022/01/31 Groceries
+    Expenses:Food   $150.00
+    Assets:Checking
+
+2022/02/02 Credit card payment
+    Liabilities:Credit Card  $200.00
+    Assets:Checking
+
+2022/02/04 Car payment
+    Expenses:Transportation  $300.00
+    Assets:Checking
+
+2022/02/06 Rent
+    Expenses:Rent  $1000.00
+    Assets:Checking
+
+2022/02/08 Groceries
+    Expenses:Food   $100.00
+    Assets:Checking
+
+2022/02/10 Salary
+    Income:Salary  $2000.00
+    Assets:Checking
+
+2022/02/12 Utilities
+    Expenses:Utilities  $200.00
+    Assets:Checking
+
+2022/02/14 Gas
+    Expenses:Transportation  $50.00
+    Assets:Checking
+
+2022/02/16 Entertainment
+    Expenses:Entertainment  $100.00
+    Assets:Checking
+
+2022/02/18 Groceries
+    Expenses:Food   $150.00
+    Assets:Checking
+
+2022/02/20 Credit card payment
+    Liabilities:Credit Card  $200.00
+    Assets:Checking
+
+2022/02/22 Car payment
+    Expenses:Transportation  $300.00
+    Assets:Checking
+
